@@ -10,7 +10,7 @@ var config = {
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
   recaptcha_sitekey: '6Lf97AoUAAAAAIJMrau0EvFmyi2vv1r1DsPvjQyj',  // <----- EDIT ME!
-  redirect_uri: 'https://fando01.github.io',
+  redirect_uri: 'http://5050bitchance.ga',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
   chat_uri: '//socket.moneypot.com',
