@@ -1,6 +1,9 @@
 body {
     margin-top: 20px;
-    background-image: url("/bitcoin.jpg");
+    background-image: url("/bitchance.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
 }
 
 .navbar .navbar-brand {
